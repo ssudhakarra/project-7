@@ -1,0 +1,37 @@
+bg-primary{
+    background-color: green !important;
+}
+bg-secondary{
+    background-color: blue !important;
+}
+.text-primary{
+    color: green !important;
+}
+.text-secondary{
+    color: green !important;
+}
+.my-nav{
+    border: 1px solid black;
+    margin-top: 10px ;
+    box-shadow: 0px 0px 10px black;
+}
+.btn-primary{
+    background-color: green;
+    color: black;
+    border-radius: 30px;
+    padding: 8px 25px;
+}
+.btn-primary:hover{
+    background-color: black;
+    transform: scale(1.1);
+}
+.btn-secondary{
+    background-color: green;
+    color: black;
+    border-radius: 30px;
+    padding: 8px 25px;
+}
+.btn-secondary:hover{
+    background-color: green;
+    transform: scale(1.1);
+}
